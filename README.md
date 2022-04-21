@@ -18,7 +18,7 @@
 To get a local copy up and running follow these simple steps.
 
 ```bash
-$ git@github.com:AdornChoga/catalog-of-things.git
+$ https://github.com/clintonjosephs/catalog-of-things.git
 $ cd catalog-of-things
 
 ```
